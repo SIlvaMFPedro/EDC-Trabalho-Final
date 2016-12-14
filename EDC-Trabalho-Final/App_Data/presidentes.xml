@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<root>
+	<presidentes>
+		<presidente>
+			<nome>George Washington</nome>
+			<partido>Sem Partido</partido>
+			<atributos>
+				<numero>1</numero>
+				<idade>67</idade>
+				<inicio>30/04/1789</inicio>
+				<fim>04/03/1797</fim>
+				<vice>John Adams</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>John Adams</nome>
+			<partido>Federalista</partido>
+			<atributos>
+				<numero>2</numero>
+				<idade>90</idade>
+				<inicio>04/03/1797</inicio>
+				<fim>04/03/1801</fim>
+				<vice>Thomas Jefferson</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Thomas Jefferson</nome>
+			<partido>Democrata-Republicano</partido>
+			<atributos>
+				<numero>3</numero>
+				<idade>83</idade>
+				<inicio>04/03/1801</inicio>
+				<fim>04/03/1809</fim>
+				<vice1>Aaron Burr</vice1>
+				<vice2>George Clinton</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>James Madison</nome>
+			<partido>Democrata-Republicano</partido>
+			<atributos>
+				<numero>4</numero>
+				<idade></idade>
+				<inicio>04/03/1809</inicio>
+				<fim>04/03/1817</fim>
+				<vice1>George Clinton</vice1>
+				<vice2>Elbridge Gerry</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>James Monroe</nome>
+			<partido>Democrata-Republicano</partido>
+			<atributos>
+				<numero>5</numero>
+				<idade>73</idade>
+				<inicio>04/03/1817</inicio>
+				<fim>04/03/1825</fim>
+				<vice>Daniel D. Tompkins</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>John Quincy Adams</nome>
+			<partido>Democrata-Republicano</partido>
+			<atributos>
+				<numero>6</numero>
+				<idade>80</idade>
+				<inicio>04/03/1825</inicio>
+				<fim>04/03/1829</fim>
+				<vice>John C. Calhoun</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Andrew Jackson</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>7</numero>
+				<idade>78</idade>
+				<inicio>04/03/1829</inicio>
+				<fim>04/03/1837</fim>
+				<vice1>John C. Calhoun</vice1>
+				<vice2>Martin Van Buren</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Martin Van Buren</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>8</numero>
+				<idade>79</idade>
+				<inicio>04/03/1837</inicio>
+				<fim>04/03/1841</fim>
+				<vice>Richard Mentor Johnson</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>William Henry Harrison</nome>
+			<partido>Whig</partido>
+			<atributos>
+				<numero>9</numero>
+				<idade>68</idade>
+				<inicio>04/03/1841</inicio>
+				<fim>04/04/1841</fim>
+				<vice>John Tyler</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>John Tyler</nome>
+			<partido>Whig</partido>
+			<atributos>
+				<numero>10</numero>
+				<idade>71</idade>
+				<inicio>04/04/1841</inicio>
+				<fim>04/03/1845</fim>
+				<vice>No one</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>James K. Polk</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>11</numero>
+				<idade>53</idade>
+				<inicio>04/03/1845</inicio>
+				<fim>04/03/1849</fim>
+				<vice>George M. Dallas</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Zachary Taylor</nome>
+			<partido>Whig</partido>
+			<atributos>
+				<numero>12</numero>
+				<idade>65</idade>
+				<inicio>04/03/1849</inicio>
+				<fim>09/07/1850</fim>
+				<vice>Millard Filmore</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Millard Filmore</nome>
+			<partido>Whig</partido>
+			<atributos>
+				<numero>13</numero>
+				<idade>74</idade>
+				<inicio>09/07/1850</inicio>
+				<fim>04/03/1853</fim>
+				<vice>No one</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Franklin Pierce</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>14</numero>
+				<idade>64</idade>
+				<inicio>04/03/1853</inicio>
+				<fim>04/03/1857</fim>
+				<vice>William R. King</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>James Buchanan</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>15</numero>
+				<idade>77</idade>
+				<inicio>04/03/1857</inicio>
+				<fim>04/03/1861</fim>
+				<vice>John C. Breckinridge</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Abraham Lincoln</nome>
+			<partido>Republicano Uniao Nacional</partido>
+			<atributos>
+				<numero>16</numero>
+				<idade>56</idade>
+				<inicio>04/03/1861</inicio>
+				<fim>15/04/1865</fim>
+				<vice1>Hannibal Hamlin</vice1>
+				<vice2>Andrew Johnson</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Andrew Johnson</nome>
+			<partido>Democrata Uniao Nacional</partido>
+			<atributos>
+				<numero>17</numero>
+				<idade>66</idade>
+				<inicio>15/04/1865</inicio>
+				<fim>04/03/1869</fim>
+				<vice>No one</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Ulysses S. Grant</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>18</numero>
+				<idade>63</idade>
+				<inicio>04/03/1869</inicio>
+				<fim>04/03/1877</fim>
+				<vice1>Schuyler Colfax</vice1>
+				<vice2>Henry Wilson</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Rutherford B. Hayes</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>19</numero>
+				<idade>70</idade>
+				<inicio>04/03/1877</inicio>
+				<fim>04/03/1881</fim>
+				<vice>William A. Wheeler</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>James A. Garfield</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>20</numero>
+				<idade>49</idade>
+				<inicio>04/03/1881</inicio>
+				<fim>19/09/1881</fim>
+				<vice>Chester A. Arthur</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Chester A. Arthur</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>21</numero>
+				<idade>57</idade>
+				<inicio>19/09/1881</inicio>
+				<fim>04/03/1885</fim>
+				<vice>No one</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Grover Cleveland</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>22</numero>
+				<idade>71</idade>
+				<inicio>04/03/1885</inicio>
+				<fim>04/03/1889</fim>
+				<vice>Thomas A. Hendricks</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Benjamin Harrison</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>23</numero>
+				<idade>67</idade>
+				<inicio>04/03/1889</inicio>
+				<fim>04/03/1893</fim>
+				<vice>Levi P. Morton</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Grover Cleveland</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>24</numero>
+				<idade>71</idade>
+				<inicio>04/03/1893</inicio>
+				<fim>04/03/1897</fim>
+				<vice>Adlai Stevenson I</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>William McKinley</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>25</numero>
+				<idade>58</idade>
+				<inicio>04/03/1897</inicio>
+				<fim>14/09/1901</fim>
+				<vice1>Garret Hobart</vice1>
+				<vice2>Theodore Roosevelt</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Theodore Roosevelt</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>26</numero>
+				<idade>60</idade>
+				<inicio>14/09/1901</inicio>
+				<fim>04/03/1909</fim>
+				<vice>Charles W. Fairbanks</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>William Howard Taft</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>27</numero>
+				<idade>72</idade>
+				<inicio>04/03/1909</inicio>
+				<fim>04/03/1913</fim>
+				<vice>James S. Sherman</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Woodrow Wilson</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>28</numero>
+				<idade>67</idade>
+				<inicio>04/03/1913</inicio>
+				<fim>04/03/1921</fim>
+				<vice>Thomas R. Marshall</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Warren G. Harding</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>29</numero>
+				<idade>57</idade>
+				<inicio>04/03/1921</inicio>
+				<fim>02/08/1923</fim>
+				<vice>Calvin Coolidge</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Calvin Coolidge</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>30</numero>
+				<idade>60</idade>
+				<inicio>02/08/1923</inicio>
+				<fim>04/03/1929</fim>
+				<vice>Charles G. Dawes</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Herbert Hoover</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>31</numero>
+				<idade>90</idade>
+				<inicio>04/03/1929</inicio>
+				<fim>04/03/1933</fim>
+				<vice>Charles Curtis</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Franklin D. Roosevelt</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>32</numero>
+				<idade>63</idade>
+				<inicio>04/03/1933</inicio>
+				<fim>12/04/1945</fim>
+				<vice1>John Nance Garner</vice1>
+				<vice2>Henry A. Wallace</vice2>
+				<vice3>Harry S. Truman</vice3>
+				<mandatos>3</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Harry S. Truman</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>33</numero>
+				<idade>88</idade>
+				<inicio>12/04/1945</inicio>
+				<fim>20/01/1953</fim>
+				<vice>Albem W. Barkley</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Dwight D. Eisenhower</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>34</numero>
+				<idade>78</idade>
+				<inicio>20/01/1953</inicio>
+				<fim>20/01/1961</fim>
+				<vice>Richard Nixon</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>John F. Kennedy</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>35</numero>
+				<idade>46</idade>
+				<inicio>20/01/1961</inicio>
+				<fim>22/11/1963</fim>
+				<vice>Lyndon B. Johnson</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Lyndon B. Johnson</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>36</numero>
+				<idade>64</idade>
+				<inicio>22/11/1963</inicio>
+				<fim>20/01/1969</fim>
+				<vice>Hubert Humphrey</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Richard Nixon</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>37</numero>
+				<idade>81</idade>
+				<inicio>20/01/1969</inicio>
+				<fim>09/08/1974</fim>
+				<vice1>Spiro Angrew</vice1>
+				<vice2>Gerald Ford</vice2>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Gerald Ford</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>38</numero>
+				<idade>93</idade>
+				<inicio>09/08/1974</inicio>
+				<fim>20/01/1977</fim>
+				<vice>Nelson Rockefeller</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Jimmy Carter</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>39</numero>
+				<idade>92</idade>
+				<inicio>20/01/1977</inicio>
+				<fim>20/01/1981</fim>
+				<vice>Walter Mondale</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Ronald Reagan</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>40</numero>
+				<idade>93</idade>
+				<inicio>20/01/1981</inicio>
+				<fim>20/01/1989</fim>
+				<vice>George H. W. Bush</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>George H. W. Bush</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>41</numero>
+				<idade>92</idade>
+				<inicio>20/01/1989</inicio>
+				<fim>20/01/1993</fim>
+				<vice>Dan Quayle</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Bill Clinton</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>42</numero>
+				<idade>70</idade>
+				<inicio>20/01/1993</inicio>
+				<fim>20/01/2001</fim>
+				<vice>Al Gore</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>George W. Bush</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>43</numero>
+				<idade>70</idade>
+				<inicio>20/01/2001</inicio>
+				<fim>20/01/2009</fim>
+				<vice>Dick Cheney</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Barack Obama</nome>
+			<partido>Democrata</partido>
+			<atributos>
+				<numero>44</numero>
+				<idade>55</idade>
+				<inicio>20/01/2009</inicio>
+				<fim>20/01/2017</fim>
+				<vice>Joe Biden</vice>
+				<mandatos>2</mandatos>
+			</atributos>
+		</presidente>
+		<presidente>
+			<nome>Donald J. Trump</nome>
+			<partido>Republicano</partido>
+			<atributos>
+				<numero>45</numero>
+				<idade>70</idade>
+				<inicio>20/01/2017</inicio>
+				<fim>20/01/2021</fim>
+				<vice>Mike Pence</vice>
+				<mandatos>1</mandatos>
+			</atributos>
+		</presidente>
+	</presidentes>
+</root>

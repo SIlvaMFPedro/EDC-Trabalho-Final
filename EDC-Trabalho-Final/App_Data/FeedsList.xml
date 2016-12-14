@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feeds>
+  <feed name="Publico" url="http://feeds.feedburner.com/PublicoRSS?format=xml" />
+  <feed name="SIC" url="http://rss.impresa.pt/feed/latest/sic.rss" />
+  <feed name="Expresso" url="http://feeds.feedburner.com/expresso-geral" />
+  <feed name="JN" url="http://feeds.jn.pt/JN-ULTIMAS" />
+  <feed name="DN" url="http://www.dnoticias.pt/rss/home.xml" />
+  <feed name="JNegócios" url="http://www.jornaldenegocios.pt/rss" />
+  <feed name="Record" url="http://www.record.xl.pt/rss.aspx" />
+  <feed name="O Jogo" url="http://feeds.ojogo.pt/OJ-Benfica" />
+  <feed name="A Bola" url="http://a-bola.webnode.pt/rss/all.xml" />
+  <feed name="Visao" url="http://rss.impresa.pt/feed/latest/visao.rss" />
+  <feed name="NYT" url="http://rss.nytimes.com/services/xml/rss/nyt/InternationalHome.xml" />
+  <feed name="NYP" url="http://nypost.com/feed/" />
+  <feed name="CNN" url="http://rss.cnn.com/rss/edition.rss" />
+  <feed name="FoxNews" url="http://feeds.foxnews.com/foxnews/latest" />
+  <feed name="SkyNews" url="http://feeds.skynews.com/feeds/rss/world.xml" />
+  <feed name="CbsNews" url="http://www.cbsnews.com/latest/rss/main" />
+  <feed name="Visao" url="	http://rss.impresa.pt/feed/latest/visao.rss" />
+</feeds>
