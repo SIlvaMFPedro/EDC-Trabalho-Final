@@ -107,6 +107,7 @@ WITH ENCRYPTION
 AS
 	RETURN (SELECT partido as 'Partido' FROM Presidentes WHERE Presidentes.nome like '%' + @given_name + '%');
 
+GO
 -------------------------------------------------------------------------------------------------------------------
 CREATE PROCEDURE sp_createPresident
 	@nome varchar (30),
