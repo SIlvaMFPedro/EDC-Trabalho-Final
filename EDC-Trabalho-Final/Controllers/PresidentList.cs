@@ -12,7 +12,7 @@ namespace EDC_Trabalho_Final.Controllers
 
     public class LinksPresident
     {
-        public Self _self { get; set;  }
+        public LinksPresident _self { get; set;  }
         public PresHref preslist { get; set; }
     }
 

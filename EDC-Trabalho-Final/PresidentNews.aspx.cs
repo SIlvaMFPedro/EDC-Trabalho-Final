@@ -21,7 +21,7 @@ namespace EDC_Trabalho_Final
 
             if (url.Length == 0)
             {
-                url = "https://www.whitehouse.gov/feed/blog/white-house"
+                url = "http://feeds.feedburner.com/PublicoRSS?format=xml";
             }
             XmlReader xreader = XmlReader.Create(url);
             XmlDocument xdoc = new XmlDocument();
@@ -95,7 +95,7 @@ namespace EDC_Trabalho_Final
 
 
             XmlDocument doc_1 = new XmlDocument();
-            doc_1.Load(@"C:\Users\silva\Documents\EDC\tpfinal\EDC-Trabalho-Final\EDC-Trabalho-Final\App_Data\FeedsList.xml");
+            doc_1.Load(@"C:\Users\hugof\Documents\GitHub\EDC-Trabalho-Final\EDC-Trabalho-Final\App_Data\FeedsList.xml");
             XmlNodeList elemList = doc_1.GetElementsByTagName("feed");
             String[] feeds = new String[elemList.Count];
             HashSet<String> categories = new HashSet<String>();
