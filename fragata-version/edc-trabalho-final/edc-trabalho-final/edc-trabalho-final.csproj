@@ -17,7 +17,7 @@
     <AssemblyName>edc-trabalho-final</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
-    <IISExpressSSLPort />
+    <IISExpressSSLPort>44362</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -202,6 +202,7 @@
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Admin\AdminPage.aspx" />
     <Content Include="App_Data\presidentes.xsl" />
+    <Content Include="App_Data\presidentes_ws.xml" />
     <Content Include="App_Data\presidents.xml">
       <SubType>Designer</SubType>
     </Content>
@@ -237,6 +238,7 @@
     <Content Include="Presidentes\Web.config" />
     <Content Include="Admin\Web.config" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="PrezisWebServices.asmx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
@@ -443,6 +445,10 @@
     <Compile Include="Presidentes\Presidentes.aspx.designer.cs">
       <DependentUpon>Presidentes.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PrezisWebServices.asmx.cs">
+      <DependentUpon>PrezisWebServices.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -490,7 +496,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>6221</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:6221/</IISUrl>
+          <IISUrl>https://localhost:44362/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

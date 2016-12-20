@@ -59,11 +59,11 @@ namespace edc_trabalho_final
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "719272830810-72015pae1t7qj9gf7hhu3liqdcuh5bp7.apps.googleusercontent.com",
+                ClientSecret = "zsZX9xrWFn2CdhOmNwfzh1up"
+            });
         }
     }
 }
