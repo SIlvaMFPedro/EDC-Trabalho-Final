@@ -22,8 +22,12 @@ namespace edc_trabalho_final
         [WebMethod]
         public XmlDocument Prezis()
         {
+
+            //XmlReader reader = XmlReader.Create(Server.MapPath("~/App_Data/presidentes_ws.xml"));
             XmlDocument xml = new XmlDocument();
-            xml.Load("C:/Users/hugof/Documents/Visual Studio 2015/Projects/edc-trabalho-final/edc-trabalho-final/App_Data/presidentes_ws.xml");
+            xml.Load(Server.MapPath("~/App_Data/presidentes_ws.xml"));
+
+            //xml.Load("C:/Users/hugof/Documents/Visual Studio 2015/Projects/edc-trabalho-final/edc-trabalho-final/App_Data/presidentes_ws.xml");
             return xml;
             //return xml.OuterXml;
 
