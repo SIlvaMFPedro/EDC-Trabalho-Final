@@ -6,6 +6,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
+using edc_trabalho_final.Admin;
 
 namespace edc_trabalho_final
 {
@@ -16,6 +17,10 @@ namespace edc_trabalho_final
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            // Create the admin role and user
+            RoleAction roleAction = new RoleAction();
+            roleAction.createAdmin();
         }
     }
 }

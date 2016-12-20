@@ -1,6 +1,6 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Presidents.aspx.cs" Inherits="edc_trabalho_final.WebForm1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Presidentes.aspx.cs" Inherits="edc_trabalho_final.Presidentes.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="XmlDataSource1" CssClass="table table-hover table-striped auto-style5">
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="XmlDataSource1" CssClass="table-strip">
         <Columns>
             <asp:BoundField DataField="Nome" HeaderText="Nome" SortExpression="Nome" />
             <asp:BoundField DataField="Partido" HeaderText="Partido" SortExpression="Partido" />

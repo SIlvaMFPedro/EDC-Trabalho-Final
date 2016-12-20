@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace edc_trabalho_final {
+namespace edc_trabalho_final.Presidentes {
     
     
     public partial class WebForm1 {

@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace edc_trabalho_final
 {
-    public partial class WebForm1 : System.Web.UI.Page
+    public partial class TwitterFeed : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
